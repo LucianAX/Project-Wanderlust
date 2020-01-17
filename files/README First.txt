@@ -1,1 +1,0 @@
-I haven't done the points 39 to 41 in this project on Codecademy (they're additional challenges).
